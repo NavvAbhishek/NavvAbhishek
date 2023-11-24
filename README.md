@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Attendance Management System](https://github.com/NavvAbhishek/attendance-management)
 
-- 🌱 I’m currently learning **NextJs, Python and Artificial Intelligence**
+- 🌱 I’m currently learning **NextJs and Artificial Intelligence with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NavvAbhishek](https://github.com/NavvAbhishek)
 
