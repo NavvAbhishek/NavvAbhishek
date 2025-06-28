@@ -4,7 +4,7 @@
 ![image (2)](https://github.com/user-attachments/assets/e48599e8-8dd4-4d85-8279-87766e507599)
 [![](https://visitcount.itsvg.in/api?id=NavvAbhishek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Mood Sync](https://github.com/NavvAbhishek/MoodSync)
+- 🔭 I’m currently working on [BookSwap](https://github.com/NavvAbhishek/bookswap)
 
 - 🌱 I’m currently learning **NextJs and Artificial Intelligence with Python**
 
